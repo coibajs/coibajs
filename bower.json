@@ -1,0 +1,15 @@
+{
+  "name": "coiba",
+  "main": "index.js",
+  "version": "0.0.1",
+  "authors": [
+    "Justin Soliz"
+  ],
+  "description": "a client-side javascript framework",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/coibajs/coibajs"
+}
